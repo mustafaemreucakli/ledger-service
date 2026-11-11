@@ -39,7 +39,7 @@ Check that it is up:
 curl -s http://localhost:8080/actuator/health
 ```
 
-Expected response: `{"status":"UP"}`.
+The response must contain `"status":"UP"`.
 
 Build and run all tests:
 
