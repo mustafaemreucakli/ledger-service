@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### IntelliJ build output ###
+out/
+
+### OS ###
+.DS_Store
+
+### Secrets ###
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
