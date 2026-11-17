@@ -28,7 +28,7 @@ class DatabaseSmokeTests extends AbstractIntegrationTest {
 				"select description, success from flyway_schema_history where version = '1'");
 
 		assertThat(baseline)
-				.containsEntry("description", "baseline-broken")
+				.containsEntry("description", "baseline")
 				.containsEntry("success", true);
 	}
 
