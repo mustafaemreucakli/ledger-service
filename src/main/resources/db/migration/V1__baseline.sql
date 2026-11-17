@@ -1,0 +1,1 @@
+-- Baseline: intentionally empty. Business tables are added by later migrations.
