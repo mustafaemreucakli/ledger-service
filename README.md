@@ -1,5 +1,7 @@
 # ledger
 
+[![CI](https://github.com/mustafaemreucakli/ledger-service/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mustafaemreucakli/ledger-service/actions/workflows/ci.yml)
+
 A ledger service built with Java and Spring Boot as a modular monolith.
 
 ## Status
